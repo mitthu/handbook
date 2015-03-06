@@ -1,0 +1,51 @@
+# Windows
+## Basic Apps (for Family)
+- Allmyapps
+- Antivirus
+- Image Editor
+- Video Editor
+- Sound Editor
+- PDF Editor
+- Office Suite
+- CD / DVD Burner tool
+- Video Convertor
+- Malwarebytes
+- CCleaner
+- Registry Defrag
+- Firefox
+- Chrome
+- VLC Media Player
+- GOM Player
+- Media Monkey
+- OneDrrive
+- Dropbox
+- Skype
+- Keepass
+- Quicktime
+- Java Runtime
+- .Net Runtime
+- Silverlight
+- Flash Player (Runtime)
+- Shockwave Player (Runtime)
+- TeamViewr
+- Tetra copy
+- Foxit Reader
+- Adobe PDF Reader
+- Print to PDF
+- 7-zip
+- Plex
+- Clipboard Sync
+
+## Specialized
+- Pidgin
+- Autokey
+- Bittorrent Sync
+- Inkscape
+- GIMP
+- Python
+- Android Dev Tools
+- FileZilla
+- Putty
+- Terminal Connector App
+- VNC session app
+- WinMerge
