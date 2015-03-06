@@ -13,5 +13,13 @@ brew cask install webpquicklook
 brew cask install suspicious-package
 ```
 
+### Apps
+```bash
+# Use the command
+brew cask install {{app}}
+```
+#### {{app}}
+- flickr-uploadr
+
 ### Misc.
 - Increase speed when using arrow keys.
