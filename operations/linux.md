@@ -33,3 +33,10 @@ Caches
 Thumbs.db
 .apdisk
 ```
+
+## Install Apps
+* apt-cacher
+* nfs-common
+* git
+* phpmyadmin
+* python-moinmoin
