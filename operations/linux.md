@@ -40,3 +40,4 @@ Thumbs.db
 * git
 * phpmyadmin
 * python-moinmoin
+* valgrind
