@@ -41,3 +41,15 @@ Thumbs.db
 * phpmyadmin
 * python-moinmoin
 * valgrind
+
+## Awesome setup
+```bash
+# Use this setup because the official ubuntu package does not have the core gears module.
+# Ref: https://launchpad.net/~klaus-vormweg/+archive/ubuntu/awesome
+sudo add-apt-repository ppa:klaus-vormweg/awesome
+sudo apt-get update
+sudo apt-get install -y awesome
+
+# Install dependencies
+sudo apt-get install -y xscreensaver xtrlock xscreensaver xbacklight
+```
